@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Ramesh S</h1>
-<h3 align="center">Pushing a B. Tech Artificial Intelligence and Data Science</h3>
+<h3 align="center">pursuing a B. Tech Artificial Intelligence and Data Science</h3>
 <img src ="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&size=24&lines=Hi,+I'm+Ramesh+S;I+have+a+strong+interest+in+Data+Science+and+Artificial+Intelligence.;An+Data+Enthusiast+!.;I'm+more+of+a+self-learner+;who+loves+to+learn+from+internet.;" alt="Typing SVG" >
 
 <h3 align="center">Passionate Data Science with expertise in encompasses a blend of technical and analytical skills  like Python ,pandas , NumPy , scikit-learn ,Matplotlib/Seaborn ,SQL. Always eager to learn and take on new challenges in the tech world.</h3>
