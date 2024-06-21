@@ -46,10 +46,3 @@ Passionate Data Scientist with expertise in a blend of technical and analytical 
     <img src="https://github-profile-trophy.vercel.app/?username=Ramesh230801&column=8&row=1">
 </p>
 <br>
-
-## 📈 GitHub Contribution Graph:
-
-<div align="Left">
-    <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=Ramesh230801&theme=minimal"/>
-</div>
-<br>
