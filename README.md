@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> I'm Ramesh S</h1>
 <h3 align="center">Currently Pursuing B. Tech Artificial Intelligence and Data Science</h3>
-<img src ="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&size=24&lines=Hi,+I'm+Ramesh+S;I+have+a+strong+interest+in+Data+Science+and+Artificial+Intelligence.;An+Data+Enthusiast+!.;I'm+more+of+a+self-learner+;who+loves+to+learn+from+internet.;" alt="Typing SVG" >
+<img src ="https://readme-typing-svg.herokuapp.com?font=Montserrat&color=blue&size=24&lines=Hi,+I'm+Ramesh+S;I+have+a+strong+interest+in+Data+Science+and+Artificial+Intelligence.;AI+Enthusiast+!.;I'm+more+of+a+self-learner+;who+loves+to+learn+from+internet.;" alt="Typing SVG" >
 
 <h3 align="center">
 Passionate Data Scientist with expertise in a blend of technical and analytical skills, including Python, pandas, NumPy, scikit-learn, Matplotlib/Seaborn, and SQL. Always eager to learn and take on new challenges in the tech world..</h3>
