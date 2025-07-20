@@ -10,8 +10,6 @@ Passionate Data Scientist with expertise in a blend of technical and analytical 
 <p align="left"> <a href="https://twitter.com/scar_xzz" target="blank"><img src="https://img.shields.io/twitter/follow/scar_xzz?logo=twitter&style=for-the-badge" alt="scar_xzz" /></a> </p>
 
 
-- 🌱 I’m currently learning **B. Tech AI & Data Science**
-
 - 👨‍💻 All of my projects are available at [[www.github.com/Ramesh230801](https://github.com/Ramesh230801))
 
 - 👯 I’m looking to collaborate on any Data Science research project.
